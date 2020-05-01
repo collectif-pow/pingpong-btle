@@ -1,0 +1,11 @@
+{
+  "name": "pingpong-btle",
+  "version": "1.0.0",
+  "description": "BTLE/OSC bridge",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-8",
+    "node-osc": "^5.1.0"
+  },
+  "author": "Xavier Seignard <xavier.seignard@gmail.com>",
+  "license": "MIT"
+}
